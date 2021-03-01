@@ -1,6 +1,6 @@
 # my_vimrc
 
-This branch included some basic vim config, and a clean Vundle setup. Not update anymore.
+This branch included some basic vim config, and a clean Vundle setup.
 
 ## prepare
 ```
